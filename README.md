@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- My name is Karthikeyan (கார்த்திகேயன்), in short (karthi)
+- Pronouns: kar-thick-ayen 🤔  
+- 🔭 I’m currently working on MEAN stack.  
+- 🌱 I’m currently learning blockchain.  
+- 💬 Ask me about ______ . I'm here to answer(even if I don't know the answer 😄 )
+  
+### How to reach me: 
+- 📫 : karthikeyansekarc@gmail.com  
+- 💬 : 9952495805 (whatsapp)
+  
+  
