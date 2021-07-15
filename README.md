@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 - My name is Karthikeyan (கார்த்திகேயன்), in short (karthi)
 - Pronouns: kar-thick-ayen 🤔  
-- 🔭 I’m currently working on MEAN stack.  
-- 🌱 I’m currently learning blockchain.  
+- 🔭 I’m currently working on Python-Django.  
+- 🌱 I’m currently learning ML and AI.  
 - 💬 Have a question, u know how to reach me....
   
 ### How to reach me: 
