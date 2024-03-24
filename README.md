@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - My name is Karthikeyan (கார்த்திகேயன்), in short (karthi)
-- Pronouns: kar-thick-ayen 🤔  
+- 🔭 I’m currently working on multiple UI projects(sry it's confidential)
+- 🌱 I’m currently learning prompt engineering along with basics of generative AI
   
   
   
